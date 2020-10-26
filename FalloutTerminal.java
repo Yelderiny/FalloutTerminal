@@ -1,9 +1,10 @@
-import java.util.ArrayList;
-
 /**
  * @author iankenny
+ * writer of methods: yelderiny
  */
 
+
+import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
